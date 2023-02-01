@@ -45,3 +45,6 @@ other commands:
 elementName.edit(newContent,editType)
 newContent is the content to replace the old content
 editType decides wether to edit inner or outer HTML. elementName.edit("new text", "inner") will replace the text. elementName.edit("<div>", "outer") will change the element to be a div
+
+  ALSO IMPORTANT!
+  To acually use the commands on YOUR website you need to put them in a setTimout. To do that, do setTimeout(function() {code here}, 1)

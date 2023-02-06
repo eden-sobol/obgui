@@ -1,6 +1,7 @@
-# obui
+# obgui
 Object
 Based
+Graphical
 User
 Interface
 

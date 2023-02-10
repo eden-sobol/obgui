@@ -11,6 +11,10 @@ to use:
 <script src="http://lib.edensobol.com/obui/main.js"></script>
 or
 download main.js, put it on your site and
+
+or
+run npm install obgui
+then in the head put <script src="/node_modules/obgui/obgui.js"></script>
 <script src="/main.js"></script>
 
 
